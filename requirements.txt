@@ -13,3 +13,4 @@ huggingface-hub
 pypdf
 pydantic
 langchain-groq
+bs4
