@@ -28,4 +28,4 @@ Make sure you have the following installed:
 ### Dependencies:
 
 ```bash
-pip install langchain openai faiss-cpu pypdf requests beautifulsoup4 sentence-transformers chromadb
+pip install langchain langchain-core langchain-groq langchain-community openai faiss-cpu pypdf requests beautifulsoup4 sentence-transformers chromadb 
